@@ -1,0 +1,50 @@
+.container{
+    background-color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.main{
+    background-color: gray;
+    
+    align-items: center;
+    height:95vh;
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.first{
+    background-color: lightgrey;
+    height: 300px;
+    width: 80vh;
+    justify-content: center;
+    align-items: center;
+display: flex;
+justify-content: space-between;
+flex-direction: column;} 
+.third{
+    background-color: lightgrey;
+    height: 300px;
+    width: 80vh;
+    justify-content: center;
+  align-items: center;
+display: flex;
+justify-content: space-between;
+flex-direction: column;} 
+.second{
+    background-color: lightgrey;
+    height: 300px;
+    width: 80vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+} 
+.Lift{
+    background-color: lightblue;
+    align-items: center;
+}
+
